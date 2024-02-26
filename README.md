@@ -1,4 +1,4 @@
-![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/GitHub_Header.jpg)
+![Header image]()
 
 Desenvolvendo soluções por meio da tecnologia.
 
