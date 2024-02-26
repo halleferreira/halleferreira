@@ -1,10 +1,10 @@
-![Header image](https://github.com/halleferreira/halleferreira/assets/142162182/981b30e5-0d57-4ae9-914e-3570f7279e4c)
+![Header image](https://github.com/halleferreira/halleferreira/assets/142162182/5737c0be-3cc8-4c03-aa11-0914050e839b)
 
 
-Desenvolvendo soluções por meio da tecnologia.
+
+Olá, me chamo Hallef, trabalho com tecnologia da informação e sou estudante de Análise e Desenvolvimento de Sistemas.
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayraj-roshan/)](https://www.linkedin.com/in/jayraj-roshan/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@eng.hallef@gmail.com)](mailto:mail@eng.hallef@gmail.com)
 
 ## ⚡ Skills:
@@ -12,3 +12,4 @@ Desenvolvendo soluções por meio da tecnologia.
 - Spring Boot
 - Software Engineering
 - ERP
+  
