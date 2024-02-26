@@ -2,7 +2,7 @@
 
 
 
-Olá, me chamo Hallef, trabalho com tecnologia da informação e sou estudante de Análise e Desenvolvimento de Sistemas.
+Entre em contato pelo email.
 
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@eng.hallef@gmail.com)](mailto:mail@eng.hallef@gmail.com)
